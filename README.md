@@ -73,38 +73,38 @@ https://www.youtube.com/watch?v=QszPk-E6d2c
 
    Directory should exactly look like this
 
-   -- Dataset folder
-    -- images
-     --train
-      -- img1.png
-      -- img2.png
-      -- ....
-     --val
-      -- img1.png
-      -- img2.png
-      -- ....
-     --test
-      -- img1.png
-      -- img2.png
-      -- ....
-
-    -- labels
-     --train
-      -- label1.txt
-      -- label2.txt
-      -- ....
-     --val
-      -- label1.txt
-      -- label2.txt
-      -- ....
-     --test
-      -- label1.txt
-      -- label2.txt
-      -- ....
+    -- Dataset folder
+     -- images
+      --train
+       -- img1.png
+       -- img2.png
+       -- ....
+      --val
+       -- img1.png
+       -- img2.png
+       -- ....
+      --test
+       -- img1.png
+       -- img2.png
+       -- ....
+      
+     -- labels
+      --train
+       -- label1.txt
+       -- label2.txt
+       -- ....
+      --val
+       -- label1.txt
+       -- label2.txt
+       -- ....
+      --test
+       -- label1.txt
+       -- label2.txt
+       -- ....
      
-    -- original image
-    -- yolo_labels
-    -- dataset.yaml
+     -- original image
+     -- yolo_labels
+     -- dataset.yaml
    
 
 ### Step 5. Train the Model
