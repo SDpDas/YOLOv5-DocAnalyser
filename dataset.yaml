@@ -1,0 +1,6 @@
+train: C:\Users\SAGAR DEEP\Desktop\Images_png\images\train
+val: C:\Users\SAGAR DEEP\Desktop\Images_png\images\val
+test: C:\Users\SAGAR DEEP\Desktop\Images_png\images\test
+
+nc: 10
+names: ['Title', 'Subtitle', 'Author', 'Sources', 'Text', 'Figure', 'Caption', 'Table', 'Page Number', 'References']

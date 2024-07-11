@@ -1,0 +1,11 @@
+Title
+Subtitle
+Author
+Sources
+Text
+Figure
+Caption
+Table
+Page Number
+References
+
