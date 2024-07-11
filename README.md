@@ -14,7 +14,7 @@ Finally the annotated images are converted into a single PDF.
 
 ## Illustration
 
-https://github.com/SDpDas/YOLOv5-DocAnalyser/assets/104672899/148ab81a-e45c-4370-8273-918700bf8a63
+https://github.com/SDpDas/YOLOv5-DocAnalyser/assets/104672899/09b33dc5-023d-43bc-80bd-2702b9ebb3e7
 
 ## Overview
 
