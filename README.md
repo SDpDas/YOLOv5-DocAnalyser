@@ -16,6 +16,10 @@ Finally the annotated images are converted into a single PDF.
 
 https://github.com/SDpDas/YOLOv5-DocAnalyser/assets/104672899/09b33dc5-023d-43bc-80bd-2702b9ebb3e7
 
+### Watch it here to get better view
+
+https://www.youtube.com/watch?v=QszPk-E6d2c
+
 ## Overview
 
 ### Step 1. Annotate images using labelImg
