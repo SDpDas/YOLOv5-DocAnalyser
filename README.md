@@ -14,7 +14,7 @@ Finally the annotated images are converted into a single PDF.
 
 ## Illustration
 
-[![Watch the video](yolo_logo.png)](Document_Layout_Analysis_YOLOv5.mp4)
+https://github.com/SDpDas/YOLOv5-DocAnalyser/assets/104672899/148ab81a-e45c-4370-8273-918700bf8a63
 
 ## Overview
 
