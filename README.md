@@ -133,13 +133,13 @@ Finally the annotated images are converted into a single PDF.
 ![labelImg](annotation/final.png)
 ![labelImg](annotation/single_paged.png)
 
-↓ Training done by Kaggle ↓
+Training done by Kaggle ➔
 https://imgur.com/a/QmJpNGh
 
-↓ YOLOv5 Metrics and Data Analysis ↓
+YOLOv5 Metrics and Data Analysis ➔
 https://imgur.com/a/EcXaThW
 
-↓ Batch Results ↓
+Batch Results ➔
 https://imgur.com/a/QFzXbLY
 
 ![Training_pics](Training_Pics/new_mag_training.png)
